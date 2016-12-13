@@ -1,0 +1,33 @@
+body{
+  background-color:black;
+}
+
+#header{
+  position:relative;
+  left:580px;
+  top:20px;
+  color:red;
+  font-family: cursive;
+}
+
+#form{
+  position:relative;
+  left:570px;
+  top:20px;
+}
+
+#tx{
+  height:35px;
+  width:190px;
+}
+
+#poster,#title,#year
+{
+  position:relative;
+  left:570px;
+  top:40px;
+}
+
+#title,#year{
+  color:white;
+}
